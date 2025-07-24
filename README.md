@@ -51,6 +51,12 @@ A collection of `Stream Deck` profiles for a number of applications.
             <td><br />-</td>
         </tr>
         <tr>
+            <td><img src="./StarshipSimulator/images/icons/app-starship-simulator.png" alt="Shapez2" width="48" /></td>
+            <td>Starship Simulator<br />- <a href="StarshipSimulator/StreamDeckXL/README.md">Stream Deck XL</a></td>
+            <td><br />24 July 2025</td>
+            <td><br />-</td>
+        </tr>
+        <tr>
             <td><img src="./Timberborn/images/icons/app-timberborn.png" alt="Timberborn" width="48" /></td>
             <td>Timberborn<br />- <a href="Timberborn/StreamDeckXL/README.md">Stream Deck XL</a></td>
             <td><br />27 June 2025</td>
