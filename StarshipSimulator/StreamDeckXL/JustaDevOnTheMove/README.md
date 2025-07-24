@@ -22,6 +22,6 @@ This is a simple icons only profile, meaning that there is nothing complex going
 - Latest version as individual file:
     - [Latest version](v0/Starship-Simulator.streamDeckProfile)
 - Latest version as a zip file:
-    - [Starship-Simulator-StreamDeckProfiles-0-1-0.zip](v1/Starship-Simulator-StreamDeckProfiles-0-1-0.zip)
+    - [Starship-Simulator-StreamDeckProfiles-0-1-0.zip](v0/Starship-Simulator-StreamDeckProfiles-0-1-0.zip)
 - Older versions as a zip file:
     - none yet
